@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZexFork
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on NodeJS
+- 📫 How to reach me at Discord ZexFork#8946
